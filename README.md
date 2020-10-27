@@ -5,10 +5,10 @@
 
  ## Currently Playing ♬
 
-[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273e3fd26a5d2512e72d0282352">](https://open.spotify.com/track/06ylybDHRyv6wEpjBc9TKn)
-Maroon 5 Popcaan - Nobody&#039;s Love (feat. Popcaan) - Remix
+[<img align="left" width="100" src="https://i.scdn.co/image/ab67616d0000b273dd67a7df3c31458f197ff42a">](https://open.spotify.com/track/1NwQsUKLsOujDGWWMWMMq0)
+Bishop Briggs - HIGHER
 
-**Album:** Nobody’s Love Remix (ft. Popcaan)
+**Album:** HIGHER
 
 &nbsp;
  
