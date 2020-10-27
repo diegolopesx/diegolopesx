@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A gamer and beer lover, coding with love</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegolopesx&label=Profile%20views&color=0e75b6&style=flat" alt="diegolopesx" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=diegolopesx&count_private=true" alt="diegolopesx" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
